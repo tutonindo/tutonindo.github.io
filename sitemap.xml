@@ -5,4 +5,29 @@
             http://127.0.0.1:8000/
         </loc>
     </url>
+    <url>
+        <loc>
+            http://127.0.0.1:8000/page/terms-and-conditions
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://127.0.0.1:8000/page/privacy-policy
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://127.0.0.1:8000/page/contact
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://127.0.0.1:8000/page/about
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://127.0.0.1:8000/category/laravel
+        </loc>
+    </url>
 </urlset>
