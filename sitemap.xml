@@ -30,4 +30,9 @@
             http://127.0.0.1:8000/category/laravel
         </loc>
     </url>
+    <url>
+        <loc>
+            http://127.0.0.1:8000/post/school-file-management-system-part-1
+        </loc>
+    </url>
 </urlset>
