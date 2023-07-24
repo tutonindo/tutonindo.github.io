@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>
-            http://127.0.0.1:8000/
+            https://tutonindo.github.io/
         </loc>
     </url>
     <url>
         <loc>
-            http://127.0.0.1:8000/page/terms-and-conditions
+            https://tutonindo.github.io/page/terms-and-conditions
         </loc>
     </url>
     <url>
         <loc>
-            http://127.0.0.1:8000/page/privacy-policy
+            https://tutonindo.github.io/page/privacy-policy
         </loc>
     </url>
     <url>
         <loc>
-            http://127.0.0.1:8000/page/contact
+            https://tutonindo.github.io/page/contact
         </loc>
     </url>
     <url>
         <loc>
-            http://127.0.0.1:8000/page/about
+            https://tutonindo.github.io/page/about
         </loc>
     </url>
     <url>
         <loc>
-            http://127.0.0.1:8000/category/laravel
+            https://tutonindo.github.io/category/laravel
         </loc>
     </url>
     <url>
         <loc>
-            http://127.0.0.1:8000/post/school-file-management-system-part-1
+            https://tutonindo.github.io/post/school-file-management-system-part-1
         </loc>
     </url>
 </urlset>
